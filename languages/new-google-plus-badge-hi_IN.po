@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-09 19:12+0530\n"
+"PO-Revision-Date: 2018-08-09 19:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: new-google-plus-badge.php:44
+msgid "Google+ Badge"
+msgstr "Google+ बैज"
+
+#: new-google-plus-badge.php:45
+msgid "A Google+ Badge Widget"
+msgstr "एक Google+ बैज विजेट"
+
+#: new-google-plus-badge.php:98
+msgid "Title"
+msgstr "शीर्षक"
+
+#: new-google-plus-badge.php:103
+msgid "Google+ Profile Url"
+msgstr "Google+ प्रोफाइल यूआरएल"
+
+#: new-google-plus-badge.php:108
+msgid "Badge Layout"
+msgstr "बैज लेआउट"
+
+#: new-google-plus-badge.php:109
+msgid "Portrait"
+msgstr "चित्र"
+
+#: new-google-plus-badge.php:110
+msgid "Landscape"
+msgstr "परिदृश्य"
+
+#: new-google-plus-badge.php:114
+msgid "Badge Width"
+msgstr "बैज चौड़ाई"
+
+#: new-google-plus-badge.php:120
+msgid "Badge Theme"
+msgstr "बैज थीम"
+
+#: new-google-plus-badge.php:121
+msgid "Light"
+msgstr "हल्कि"
+
+#: new-google-plus-badge.php:122
+msgid "Dark"
+msgstr "गहरी"
+
+#: new-google-plus-badge.php:128 new-google-plus-badge.php:134
+msgid "Enable"
+msgstr "सक्षम करें"
+
+#: new-google-plus-badge.php:129 new-google-plus-badge.php:135
+msgid "Disable"
+msgstr "अक्षम"
+
+#: new-google-plus-badge.php:140
+msgid "Language"
+msgstr "भाषा"
+
+#: new-google-plus-badge.php:142
+msgid "English (US)"
+msgstr "अंग्रेजी (US)"
+
+#: new-google-plus-badge.php:143
+msgid "English (UK)"
+msgstr "अंग्रेजी (UK)"
+
+#: new-google-plus-badge.php:144
+msgid "Afrikaans"
+msgstr "अफ्रीकी"
+
+#: new-google-plus-badge.php:145
+msgid "Arabic"
+msgstr "अरबी"
+
+#: new-google-plus-badge.php:146
+msgid "Armenian"
+msgstr "अर्मेनियाई"
+
+#: new-google-plus-badge.php:147
+msgid "Bulgarian"
+msgstr "बल्गेरियाई"
+
+#: new-google-plus-badge.php:148
+msgid "Breton"
+msgstr "ब्रेटन"
+
+#: new-google-plus-badge.php:149
+msgid "Czech"
+msgstr "चेक"
+
+#: new-google-plus-badge.php:150
+msgid "Chinese (Simplified China)"
+msgstr "चीनी (सरलीकृत चीन)"
+
+#: new-google-plus-badge.php:151
+msgid "Chinese (Traditional Hong Kong)"
+msgstr "चीनी (पारंपरिक हांगकांग)"
+
+#: new-google-plus-badge.php:152
+msgid "Chinese (Traditional Taiwan)"
+msgstr "चीनी (पारंपरिक ताइवान)"
+
+#: new-google-plus-badge.php:153
+msgid "Danish"
+msgstr "डेनिश"
+
+#: new-google-plus-badge.php:154
+msgid "Dutch"
+msgstr "डच"
+
+#: new-google-plus-badge.php:155
+msgid "French (France)"
+msgstr "फ्रेंच (फ्रांस)"
+
+#: new-google-plus-badge.php:156
+msgid "French (Canada)"
+msgstr "फ़्रेंच (कनाडा)"
+
+#: new-google-plus-badge.php:157
+msgid "German"
+msgstr "जर्मन"
+
+#: new-google-plus-badge.php:158
+msgid "Hebrew"
+msgstr "यहूदी"
+
+#: new-google-plus-badge.php:159
+msgid "Hindi"
+msgstr "हिंदी"
+
+#: new-google-plus-badge.php:160
+msgid "Hungarian"
+msgstr "हंगेरी"
+
+#: new-google-plus-badge.php:161
+msgid "Irish"
+msgstr "आयरिश"
+
+#: new-google-plus-badge.php:162
+msgid "Indonesian"
+msgstr "इन्डोनेशियाई"
+
+#: new-google-plus-badge.php:163
+msgid "Italian"
+msgstr "इतालवी"
+
+#: new-google-plus-badge.php:164
+msgid "Japanese"
+msgstr "जापानी"
+
+#: new-google-plus-badge.php:165
+msgid "Kazakh"
+msgstr "कजाख"
+
+#: new-google-plus-badge.php:166
+msgid "Korean"
+msgstr "कोरियाई"
+
+#: new-google-plus-badge.php:167
+msgid "Latin"
+msgstr "लैटिन"
+
+#: new-google-plus-badge.php:168
+msgid "Nepali"
+msgstr "नेपाली"
+
+#: new-google-plus-badge.php:169
+msgid "Persian"
+msgstr "फ़ारसी"
+
+#: new-google-plus-badge.php:170
+msgid "Polish"
+msgstr "पोलिश"
+
+#: new-google-plus-badge.php:171
+msgid "Portuguese"
+msgstr "पुर्तगाली"
+
+#: new-google-plus-badge.php:172
+msgid "Romanian"
+msgstr "रोमानियाई"
+
+#: new-google-plus-badge.php:173
+msgid "Russian"
+msgstr "रूसी"
+
+#: new-google-plus-badge.php:174
+msgid "Spanish"
+msgstr "स्पेनिश"
+
+#: new-google-plus-badge.php:175
+msgid "Spanish (Chile)"
+msgstr "स्पेनिश (चिली)"
+
+#: new-google-plus-badge.php:176
+msgid "Spanish (Colombia)"
+msgstr "स्पेनिश (कोलंबिया)"
+
+#: new-google-plus-badge.php:177
+msgid "Spanish (Spain)"
+msgstr "स्पेनिश (स्पेन)"
+
+#: new-google-plus-badge.php:178
+msgid "Spanish (Mexico)"
+msgstr "स्पेनिश (मेक्सिको)"
+
+#: new-google-plus-badge.php:179
+msgid "Spanish (Venezuela)"
+msgstr "स्पेनिश (वेनेज़ुएला)"
+
+#: new-google-plus-badge.php:180
+msgid "Serbian"
+msgstr "सर्बियाई"
+
+#: new-google-plus-badge.php:181
+msgid "Swedish"
+msgstr "स्वीडिश"
+
+#: new-google-plus-badge.php:182
+msgid "Thai"
+msgstr "थाई"
+
+#: new-google-plus-badge.php:183
+msgid "Turkish"
+msgstr "तुर्की"
+
+#: new-google-plus-badge.php:184
+msgid "Urdu"
+msgstr "उर्दू"
+
+#~ msgid "Follow Us On Google+"
+#~ msgstr "Google+ पर हमारा अनुसरण करें"
+
+#~ msgid "portrait"
+#~ msgstr "चित्र"
+
+#~ msgid "light"
+#~ msgstr "हल्कि"
+
+#~ msgid "true"
+#~ msgstr "सच"
